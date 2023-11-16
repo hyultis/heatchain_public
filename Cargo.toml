@@ -1,15 +1,15 @@
 [package]
 name = "heatchain"
-version = "0.8.0"
-authors = ["Hyultis <hyultis@use.startmail.com>"]
+version = "1.0.0"
+authors = ["Hyultis <hyultis@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [features]
 #default = []
-default = ["dynamicresolution","steam"]
-#default = ["dynamicresolution"]
+#default = ["dynamicresolution","steam"]
+default = ["dynamicresolution"]
 steam = ["steamworks"]
 dynamicresolution = []
 
@@ -26,10 +26,10 @@ arc-swap = "1.6.0"
 indexmap = "2.0.2"
 rand_chacha = "0.3.1"
 rand_seeder = "0.2.3"
-hany-macro = { path = "../hany-macro" }
-hany = { path = "../hany" }
-HArcMut = { path = "../HArcMut" }
-singletonThread = { path = "../singletonThread" }
+hany-macro = { path = "../../rust/hany-macro" }
+hany = { path = "../../rust/hany" }
+HArcMut = { path = "../../rust/HArcMut" }
+singletonThread = { path = "../../rust/singletonThread" }
 bytemuck = "1.14.0"
 derive_more = { version = "1.0.0-beta.6", features = ["full"] }
 chrono = "0.4.31"
@@ -38,8 +38,8 @@ sys-locale = "0.3.1"
 #data
 #vergen = "8.2.4"
 csv = "1.3.0"
-Hconfig = { path = "../Hconfig" }
-Htrace = { path = "../Htrace" }
+Hconfig = { path = "../../rust/Hconfig" }
+Htrace = { path = "../../rust/Htrace" }
 base64 = "0.21.5"
 json = "0.12.4"
 rsa = { version = "0.9.3", features = ["sha2"]}
