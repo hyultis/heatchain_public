@@ -14,7 +14,7 @@ If I messed a translation, or a language is missing, you can create an issue/mer
 
 ## Used resource
 
-All resource not created by hyultis, are inside CREDITS.md
+All resource not created by Hyultis, are inside CREDITS.md
 
 ## rust used library
 

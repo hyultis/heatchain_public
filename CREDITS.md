@@ -8,7 +8,7 @@ Please respect their respective licence
 
 ### Libraries :
 
-Check cargo.toml
+Check cargo.toml : see https://github.com/hyultis/heatchain_public
 
 ### Textures :
 
@@ -28,4 +28,4 @@ Metal Pole Hit -> by Ev-Dawg ( https://freesound.org/people/Ev-Dawg/sounds/33600
 ClockTickSound_01.wav -> by abyeditsound ( https://freesound.org/people/abyeditsound/sounds/450509/ )
 
 ### Translates :
-Google Translate
+Google Translate : see https://github.com/hyultis/heatchain_public
