@@ -1,4 +1,4 @@
-# Made by Brice JULLIAN ( Hyultis )
+# Made by Hyultis ( Brice JULLIAN )
 
 Game and engine created by myself in rust
 
