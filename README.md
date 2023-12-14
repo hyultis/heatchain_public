@@ -3,9 +3,9 @@
 This repository permit to you some information about the game "Heatchain"
 
 learn more about the game on : 
-* Steam : [TODO]
-* Itch.io : [TODO]
-* Android : [TODO]
+* Steam : https://store.steampowered.com/app/2521350/Heatchain/
+* Itch.io : https://hyultis.itch.io/heatchain
+* Android : https://play.google.com/store/apps/details?id=hyultis.heatchain.MainActivity
 
 ## Translates
 
