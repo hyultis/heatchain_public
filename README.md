@@ -35,4 +35,4 @@ you can modify the configuration inside <gamedir>/config/config.json
     "sound" : allow to modify volume (value are not bounded, so be carefull)
     "window/type" : 0 = bordeless, 1 = windowed
     "system/swapchain/fpslimiter" : fps maximum (0 for no limit)
-    "system/swapchain/presentmode" : "Fifo" by default (vsync), "Immediate" or "Mailbox" to disable vsync (beware this is dependant of your system, the game will crash if the value is not a good one)
+    "system/swapchain/presentmode" : "Fifo" by default (vsync), "Immediate" or "Mailbox" to disable vsync (beware this is dependant of your system, the game will fallback to "Fifo" is the value is not supported by your GPU)
