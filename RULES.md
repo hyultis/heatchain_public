@@ -2,6 +2,14 @@
 
 Quickly find the next glyph, take the bonuses without wasting time and make the longest chain!
 
+## Interface
+
+* You have a glyph in the center that must be found on the board.
+* The next two glyph are present for information on the left.
+* On the right you have the remaining time and your actual score.
+* Below the ui, there is 2 bar who fade, indicating remaining time before the bonus multiplier vanish.
+* 3 hearts represent your lives before losing.
+
 ## Rule descriptions
 
 * Be quick, your multiplier increases faster by quickly finding the next glyph. (maximum multiplier "15.0")
