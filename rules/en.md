@@ -4,7 +4,7 @@ Quickly find the next glyph, take the bonuses without wasting time and make the 
 
 ## Interface description
 
-![ui](./img/ui.png)
+![ui](../img/ui.png)
 
 * You have the glyph in the center that must be found on the board.
 * The next two glyph are present for information on the left.
@@ -24,11 +24,11 @@ Quickly find the next glyph, take the bonuses without wasting time and make the 
 
 ## Bonus descriptions
 
-* ![point_lvl1](./img/point_lvl1.png) ![point_lvl2](./img/point_lvl2.png) ![point_lvl3](./img/point_lvl3.png): Earn 5/10/20 points depending on your multiplier
-* ![heart](./img/heart.png): Recover one life. If you are full life, you gain ![point_lvl2](../img/point_lvl2.png)
-* ![freeze](./img/freeze.png): Freeze time for 3 seconds
-* ![timeup](./img/timeup.png): Increase the maximum remaining time by 10 seconds
-* ![chain_lvl3](./img/chain_lvl3.png): Immediately triggers a RUSH
+* ![point_lvl1](../img/point_lvl1.png) ![point_lvl2](../img/point_lvl2.png) ![point_lvl3](../img/point_lvl3.png): Earn 5/10/20 points depending on your multiplier
+* ![heart](../img/heart.png): Recover one life. If you are full life, you gain ![point_lvl2](../img/point_lvl2.png)
+* ![freeze](../img/freeze.png): Freeze time for 3 seconds
+* ![timeup](../img/timeup.png): Increase the maximum remaining time by 10 seconds
+* ![chain_lvl3](../img/chain_lvl3.png): Immediately triggers a RUSH
 
 ## RUSH description
 
@@ -36,4 +36,4 @@ In this mode, the board no longer moves. You have few seconds to click as many g
 Your multiplier is set to the maximum possible : 20.0
 At the end of the rush mode, the time to find the next glyph is reset.
 
-![heatchain_rush](./img/heatchain_rush.gif)
+![heatchain_rush](../img/heatchain_rush.gif)
