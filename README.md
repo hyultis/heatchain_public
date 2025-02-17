@@ -1,6 +1,6 @@
 # Heatchain
 
-This repository permit to you some information about the game "Heatchain"
+This repository show you some information about the game "Heatchain"
 
 learn more about the game on : 
 * Steam : https://store.steampowered.com/app/2521350/Heatchain/
